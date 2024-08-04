@@ -26,6 +26,10 @@ This project allows users to easily upload images, apply a range of filters, and
 ## Demo 🎥
 
 
+https://github.com/user-attachments/assets/2f83fa6b-54a5-45a5-92c3-7bdf3fe90e9c
+
+
+
 
 ## How to Use 🚀
 
