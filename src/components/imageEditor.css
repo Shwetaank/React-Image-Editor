@@ -1,0 +1,25 @@
+.canvas-wrapper {
+  width: 32%;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px #a2a8d3;
+  margin: 0 auto; 
+}
+
+.canvas {
+  width: 100%;
+  height: auto;
+}
+
+/* Media Query for Tablet (max-width: 1024px) */
+@media (max-width: 1024px) {
+  .canvas-wrapper {
+    width: 50%; /* Adjust width for tablets */
+  }
+}
+
+/* Media Query for Mobile (max-width: 430px) */
+@media (max-width: 430px) {
+  .canvas-wrapper {
+    width: 90%; /* Adjust width for mobile devices */
+  }
+}
